@@ -1,4 +1,4 @@
-package com.enlightendev.threading.reentrantlocks.ex1;
+package com.enlightendev.concurrency.reentrantlocks.ex1;
 
 /**
  * Created by Juan on 5/19/14.

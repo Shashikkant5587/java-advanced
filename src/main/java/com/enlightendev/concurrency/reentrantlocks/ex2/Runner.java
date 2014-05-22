@@ -1,6 +1,5 @@
-package com.enlightendev.threading.reentrantlocks.ex2;
+package com.enlightendev.concurrency.reentrantlocks.ex2;
 
-import java.util.Scanner;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

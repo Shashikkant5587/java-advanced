@@ -1,4 +1,4 @@
-package com.enlightendev.threading.reentrantlocks.ex1;
+package com.enlightendev.concurrency.reentrantlocks.ex1;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
